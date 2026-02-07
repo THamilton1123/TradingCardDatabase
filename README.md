@@ -1,4 +1,6 @@
 !!!!Below is an example of a proper README for me to use as a template for this project!!!!
+!!!!The way it looks in edit mode is more like the way it should actually appear!!!!
+!!!!Find the original in mad-ent-java-s26/FatBikeTrailReports repository!!!!
 
 Paula Waite Individual Project
 This repository will serve as an example for Madison College's Enterprise Java Class.
@@ -10,47 +12,49 @@ With the growing popularity of winter fat biking (riding bikes with 3.5" or larg
 
 Screenshots from SkinnySki.com:
 
-Trail Description
+Trail Description !!!!This is a screenshot and a link!!!!
 
-Trail Report
+Trail Report !!!!This is a screenshot and a link!!!!
 
-Project Technologies/Techniques
-Security/Authentication
-AWS Cognito
-Database
-MySQL 8.x
-ORM Framework
-Hibernate Version TBD
-Dependency Management
-Maven
-Web Services consumed using Java
-TBD
-CSS
-Bootstrap or Materialize
-Data Validation
-Bootstrap Validator for front end
-Explore Hibernate Validator?
-Logging
-Log4J2
-Hosting
-AWS
-Tech I'd like to explore as part of this work
-CI tools in AWS
-Materialize
-Google Maps API
-Hibernate Validator
-Hibernate Search
-Project Lombok
-Unit Testing
-JUnit tests to cover all testable logic
-IDE: IntelliJ IDEA
-Design
-User Stories
-Screen Design
-Project Plan
+Project Technologies/Techniques !!!!This is a bulletpoint list!!!!
+  Security/Authentication
+    AWS Cognito
+  Database
+    MySQL 8.x
+  ORM Framework
+    Hibernate Version TBD
+  Dependency Management
+    Maven
+  Web Services consumed using Java
+    TBD
+  CSS
+    Bootstrap or Materialize
+  Data Validation
+    Bootstrap Validator for front end
+    Explore Hibernate Validator?
+  Logging
+    Log4J2
+  Hosting
+    AWS
+  Tech I'd like to explore as part of this work
+    CI tools in AWS
+    Materialize
+    Google Maps API
+    Hibernate Validator
+    Hibernate Search
+  Project Lombok
+  Unit Testing
+    JUnit tests to cover all testable logic
+  IDE: IntelliJ IDEA
+
+Design !!!!This is a bulletpoint list!!!!
+  User Stories !!!!This is a link!!!!
+  Screen Design !!!!This is a link!!!!
+
+Project Plan !!!!This is a link!!!!
 Examples of documentation of progress, reflections, and time spent on this class
 Choose a format that works for you, or create your own.
 
-Weekly Refelection
-Journal
-TimeLog
+Weekly Refelection !!!!This is a link!!!!
+Journal !!!!This is a link!!!!
+TimeLog !!!!This is a link!!!!
